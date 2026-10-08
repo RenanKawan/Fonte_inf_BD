@@ -22,8 +22,12 @@ Dashboard com Dados Abertos (19/09)
 Resposta para a atividade postada no dia 19/09, onde deveríamos pegar algum CSV dos Dados Abertos e criar um dashboard respondendo 5 perguntas em forma de gráficos:
 
 Qual a evolução mensal do volume de tráfego?
+
 Qual a distribuição do volume de tráfego por tipo de veículo?
+
 Qual o volume de tráfego por concessionária?
+
 Quais são as 10 praças de pedágio com maior volume de tráfego?
+
 Qual o volume de tráfego por tipo de veículo em cada mês?
 <img width="1287" height="723" alt="Dashboard de volume de tráfego nas praças de pedágio" src="https://github.com/user-attachments/assets/38727a64-23df-47e9-891f-e5ee7a75977f" />
