@@ -11,6 +11,10 @@ Atividade do Teams (28/08)
 
 Nesse print vemos o que foi entregue para a atividade postada no Teams no dia 28/08.
 
+Qual a variação do valor MultiModal?
+
+Qual a variação de novos entrantes? 
+
 <img width="1298" height="725" alt="Entrega da atividade de 28/08" src="https://github.com/user-attachments/assets/2e41ceac-4598-4cc7-bfe2-c54eda6623bc" />
 BI de empresas com habilitação multimodal
 
