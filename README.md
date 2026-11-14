@@ -35,3 +35,8 @@ Quais são as 10 praças de pedágio com maior volume de tráfego?
 
 Qual o volume de tráfego por tipo de veículo em cada mês?
 <img width="1287" height="723" alt="Dashboard de volume de tráfego nas praças de pedágio" src="https://github.com/user-attachments/assets/38727a64-23df-47e9-891f-e5ee7a75977f" />
+
+Informações da Prova do dia 13/11/2026
+
+Questão do modelo de Regressão: 
+<img width="1119" height="603" alt="Captura de tela 2026-11-13 210738" src="https://github.com/user-attachments/assets/a0a4029a-11e6-49e2-beb8-599161b8d654" />
