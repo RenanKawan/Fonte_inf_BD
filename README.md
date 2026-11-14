@@ -39,4 +39,5 @@ Qual o volume de tráfego por tipo de veículo em cada mês?
 Informações da Prova do dia 13/11/2026
 
 Questão do modelo de Regressão: 
-<img width="1119" height="603" alt="Captura de tela 2026-11-13 210738" src="https://github.com/user-attachments/assets/a0a4029a-11e6-49e2-beb8-599161b8d654" />
+<img width="1355" height="816" alt="Captura de tela 2026-11-13 213211" src="https://github.com/user-attachments/assets/595eae24-5143-4e18-86d7-43e940d412eb" />
+
